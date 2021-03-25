@@ -1,5 +1,5 @@
 # SpringBatchStudy
-스프링 배치 뽀개기!!!!!!! 
+스프링 배치 뽀개기!!!!!!!   
 
 ## To Do
 Reader, Writer, Processor 커스텀 구현체 구현
